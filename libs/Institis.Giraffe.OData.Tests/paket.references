@@ -1,0 +1,7 @@
+Microsoft.NET.Test.Sdk
+xunit
+xunit.runner.console
+FSharp.Core
+NSubstitute
+FsUnit.xUnit
+xunit.runner.visualstudio
